@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "techmeetsbot",
+  "private_key_id": "2efec20f47d0fb2f3a505cf4ffe8403cb3197e6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8qvX+ZWBt8Iob\n4EAVGM1EcY0Bp9uRBk9M0pOagC4HMW60at/eA2Usxe2RJxwzVhc4HmlqdNSozD56\nP2JhlvxOKoLp1/07z0oyxWI+Hzy4Bjzh3Rn8Ps4335yZ32bGkj59C5sNAw402GL/\nnC+1aiSZO7MCLJDYlJVR6L6CsxpfaP+FU6vetGey1DQ7hB8A2zJ4D+m1bv3i2x7F\nhiIK0jp+7ZDNGEhg8TTOyRAElIp7i+IzLWvXRhj2pXmQjZd5Nq2ZtOVinm5sIPdK\nGtbgmxyWUZ6gjpxRBfBWOHMbAfbqMazmVN+TqFSygjx2Q96LALl7zmhm9yTdQAEA\n2Lo5YnLDAgMBAAECggEAGtPYjOcPcjKdAN+/XQCc15mp6k1bHGEgT5U15edKJD20\nNzVnReOHtHkkkdpU2Tvpq1IvvTKFtsbsL2fp7mSQ1fCXkvbijGmqbFPC54B7mtNQ\nPvG4qzSnECzc0MiCjcPn3NIUpyIDGCKY2S31Xr+MGrnxd2Ks6g8euHn29RDQtDY0\naq8Zr6nW0V8FP03dDw//klrKH0itp/xzYg4O06O5yQ1mShASxG7Q+VSwbm/USzX+\n65DBaaOTMmGptOJMeeY9xneMLRoFrxdo/+QtqSrhYdHweEX8YQ99p47ra3DzApHG\nnZJi+9dgUAwBGQC0SOivAV90ytZOtbOpdus2L3a0YQKBgQDklM25N6lmRUq4c+dw\npWFM45hGWV+l6mxNRGiLU7eL6Q6uKub8oGGocIO2d2+/DR+Xa7vxeA5whFtKWdPY\nhfB1Pj/TP+8ju/RVDmfL1oURZNlHI2LUXPu6sIVt/vSrb52f4lrfYbXX+H0uUt7a\n5HLOxDyniEWFJBgn+DlrUuiN0QKBgQDTTIIzoJmz9F4zOHV4aCN73N7OISsJKoJX\nBpyBw2xlU7dKYL9MA1N8bmDFrDvEgfJfjxwScHEhnwQapo8S7EbqdUxlfcy/DRr3\nr7shv4sGzl/NakI07bKc9qPNQGm/v5AzKbGgpUJzSuROXV0DKrCISaxzT9fZIwuT\naCWjKXr4UwKBgEK9S7+7h8NrkeB/PuD9+IXZoflQWQP5iTuaMKgVfm7kUjv6HM1A\nCqOCjoJ1JvRyYXn1o79iHV0u1/TCe38pxEaHMV19ulYFp9Y5yYaTkPC+ME57/3wf\n1gPxTFQMb+WqRiyLi5rTTaPMUsh2u8jPkNHcLBWCTUINgtwQtrsmTu4xAoGBAMyH\nOVzZ7w3G08wGsYaMXxSNNkoWxv6HXET6zFG7JVhrkXb4cRMWASDoAto0nmHXWxHu\nh8C9gHSH5MQbR1CMzxQx2HJBNAgWmmz4eE3xh5Rd/VPrsAxlrUfMYb/Swsntlpo/\nmIWkkc7hxl6odtkS4G/7yGaR+aBgENttq0jlZPerAoGAS0PDirJBiaC5/5bR8vml\nko4OXeKBn9ILxH/UeF1xiMch19ANNsyAscXxndYx+bJPwT7JFvw37QH6acePMKDe\nCeSpTrfvtJSynxHHESd906+9G07dCVKutMfKLd+sUpVLRml+J+4FvjVdLgCMTF4M\nXtjIAah+ZRJto3pp5vMLmhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "discordtechmeetsbot@techmeetsbot.iam.gserviceaccount.com",
+  "client_id": "116457044307811155687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discordtechmeetsbot%40techmeetsbot.iam.gserviceaccount.com"
+}
